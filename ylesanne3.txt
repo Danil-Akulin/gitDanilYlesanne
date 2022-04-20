@@ -1,4 +1,4 @@
 3 task
 font-size: 9pt;
 font-size: 9pt; /* viees viga */
-font-sizo: 9pt;
+font-size: 9pt;/* Kuues viga */
