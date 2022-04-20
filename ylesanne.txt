@@ -1,0 +1,4 @@
+1 - choose the correct option
+
+SEBECT * FROM Customers
+WNERE City = 'London'
