@@ -1,4 +1,4 @@
 1 - choose the correct option
 
 SELECT * FROM Customers /* ESIMENE ERROR */
-WNERE City = 'London' 
+WHERE City = 'London' /* Teine error */
